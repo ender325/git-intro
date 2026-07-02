@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-Message from main branch and from feature branch
->>>>>>> feature-greeting
+Message from main branch and from feature branch.
